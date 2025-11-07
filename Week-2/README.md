@@ -28,5 +28,4 @@ In Week 2 of the AI Internship, the main goal was to **prepare the dataset** and
 
 ---
 
-## 📂 Repository Structure (Updated)
 
