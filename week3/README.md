@@ -101,4 +101,3 @@ AI & Sustainability Internship – Final Week
 
 ---
 
-Would you like me to format this **README.md** in Markdown with icons and headings (for direct GitHub copy-paste with proper visuals), or keep it plain text for uploading directly via the GitHub web editor?
